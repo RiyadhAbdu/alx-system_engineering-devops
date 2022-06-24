@@ -1,2 +1,2 @@
 #!/bin/bash
-task 11.
+ls -al . .. /boot
